@@ -2,6 +2,15 @@ body {
 background-color: rgba(10, 12, 28, 1);
 min-width: 100%;
 min-height: 100vh;
+font-family: 'Inter', sans-serif;
+color: white;
+}
+
+.card {
+    background-color: #AB5CDB;
+    width: 85%;
+    height: 90vh;
+    margin: 20px 15px 10px;
 }
 
 .attribution {
